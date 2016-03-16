@@ -11,3 +11,5 @@
 -[王军军  2013301020118](https://github.com/EPR123/computational_physics_2013301020118)  
 -[华  杨  2013301020088](https://github.com/DesertSunset)  
 -[敬  雷  2013301020097](https://github.com/MitoYuuka)  
+-[张  爽  2013301020101](https://github.com/whuerZS/computationalphysics_N2013301020101)  
+-[万  强  2013301020117](https://github.com/Adener)  
