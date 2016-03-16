@@ -7,5 +7,7 @@
 -[方  勃  2013301020140](https://github.com/fbbelief/computationalphysics_N2013301020140.git)  
 -[陈章辉  2013301020052](https://github.com/MoXuanX/computationalphysics_N2013301020052.git)  
 -[黄  程  2013301020125](https://github.com/chenghuang2016/computationalphysics_N2013301020125.git)  
-
+-[何牧野  2013301020106](https://github.com/axbzsf)  
+-[王军军  2013301020118](https://github.com/EPR123/computational_physics_2013301020118)  
+-[华  杨  2013301020088](https://github.com/DesertSunset)  
 
