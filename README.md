@@ -10,4 +10,4 @@
 -[何牧野  2013301020106](https://github.com/axbzsf)  
 -[王军军  2013301020118](https://github.com/EPR123/computational_physics_2013301020118)  
 -[华  杨  2013301020088](https://github.com/DesertSunset)  
-
+-[敬  雷  2013301020097](https://github.com/MitoYuuka)  
