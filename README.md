@@ -17,5 +17,9 @@
 -[尉承佩  2013301020137](https://github.com/18571623097/computationalphysics_N2013301020137)  
 -[孙博阳  2013301020093](https://github.com/Shine1090/computationalphysics_N2013301020093)  
 -[唐博文  2013301510035](https://github.com/tbw94919/computational_physics_whu)  
+-[李文凯  2013301020147](https://github.com/lwkgithub/computationalphysics_N2013301020147)  
+-[曹  一  2013301020120](https://github.com/breakingDboy/computational_physics_2013301020120)  
+-[邓  罡  2013301020104](https://github.com/dygical)  
+-[汪凌涛  2013301020102](https://github.com/WLT421)  
 
 
