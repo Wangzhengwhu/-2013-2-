@@ -13,7 +13,7 @@
 -[敬  雷  2013301020097](https://github.com/MitoYuuka)  
 -[张  爽  2013301020101](https://github.com/whuerZS/computationalphysics_N2013301020101)  
 -[万  强  2013301020117](https://github.com/Adener)  
--[华慧玲  2013301020110](github huiling110)  
+-[华慧玲  2013301020110](https://github.com/huiling110)  
 -[尉承佩  2013301020137](https://github.com/18571623097/computationalphysics_N2013301020137)  
 -[孙博阳  2013301020093](https://github.com/Shine1090/computationalphysics_N2013301020093)  
 -[唐博文  2013301510035](https://github.com/tbw94919/computational_physics_whu)  
