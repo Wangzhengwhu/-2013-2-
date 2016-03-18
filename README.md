@@ -21,5 +21,7 @@
 -[曹  一  2013301020120](https://github.com/breakingDboy/computational_physics_2013301020120)  
 -[邓  罡  2013301020104](https://github.com/dygical)  
 -[汪凌涛  2013301020102](https://github.com/WLT421)  
+-[岑啸威  2013301020162](https://github.com/xiaoweicen/computationalphysics_N2013301020162)  
+
 
 
